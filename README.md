@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Custom Clearance Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Custom Clearance Management App GitHub repository! This app is designed to streamline the customs clearance process, allowing users to create orders, update order status, and track orders with ease. It also includes simple filtering features to facilitate quick access to order information.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Create Orders:** Users can create new orders, providing necessary details for customs clearance.
+- **Update Order Status:** Easily update the status of each order as it progresses through the customs clearance process.
+- **Track Order Status:** Users can track the status of each order, ensuring transparency and efficiency in the clearance process.
+- **Simple Filtering:** Easily filter orders based on various criteria for quick access to information.
 
-### `npm start`
+## Main Pages
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Home
+- The home page contains features to create orders, update order status, and track orders. It also includes simple filtering options for enhanced usability.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Processing Fee
+- This page focuses on processing fees associated with customs clearance.
 
-### `npm test`
+### Terminal Fee
+- This page details terminal fees relevant to the customs clearance process.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Warehouse Fee
+- Users can find information about warehouse fees on this page.
 
-### `npm run build`
+### Safezone Fees
+- Information regarding safezone fees is available on this page.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+These pages are separated based on the interest of the project sponsor to provide relevant information efficiently.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Run the app using `npm start`.
+4. Access the app through your web browser at `http://localhost:3000`.
